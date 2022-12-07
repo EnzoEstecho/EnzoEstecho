@@ -13,13 +13,18 @@
     const = {
     
     pronouns: "He" | "Him",
+    
     code: ["Javascript", "Typescript", "Python", "Java"],
+    
     askMeAbout: ["web dev", "tech", "app dev"],
+    
     technologies: {
+    
         frontEnd: {
             js: ["Vue", "React", "TypeScript"],
             css: ["Tailwind", "bootstrap"]
         },
+	
         backEnd: {
 	        JAVA: ["SpringBoot"]
             js: ["node"],
