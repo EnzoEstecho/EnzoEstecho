@@ -1,16 +1,34 @@
 ### Hi there 👋
 
-<!--
-**EnzoEstecho/EnzoEstecho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+    const = {
+    
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Python", "Java"],
+    askMeAbout: ["web dev", "tech", "app dev"],
+    technologies: {
+        frontEnd: {
+            js: ["Vue", "React", "TypeScript"],
+            css: ["Tailwind", "bootstrap"]
+        },
+        backEnd: {
+	        JAVA: ["SpringBoot"]
+            js: ["node"],
+            python: ["flask"]
+        },
+        
+        databases: ["H2", "MySql", "PostgreSQL"],
+        
+        },
+    
+        funFact: "A good software developer works with discipline and perseverance from day one..."
+        };
